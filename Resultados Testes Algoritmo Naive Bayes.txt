@@ -5,9 +5,11 @@ DataSet Census
 
 Testes realizados:
 
-Precisão: 0.4767 - Naive Bayes com: LabelEncoder + StandardScaler + OneHotEncoder
-Precisão: 0.7950 - Naive Bayes com: LabelEncoder + OneHotEncoder
-Precisão: 0.7952 - Naive Bayes com: LabelEncoder
-Precisão: 0.8057 - Naive Bayes com: LabelEncoder + StandardScaler
+Precisão: 0.7947 - Naive Bayes com: LabelEncoder
+Precisão: 0.5041 - Naive Bayes com: LabelEncoder + OneHotEncoder
+Precisão: 0.4922 - Naive Bayes com: LabelEncoder + OneHotEncoder + StandardScaler (Total)
+Precisão: 0.5041 - Naive Bayes com: LabelEncoder + OneHotEncoder + StandardScaler (Parcial)
+Precisão: 0.8046 - Naive Bayes com: LabelEncoder + StandardScale (Total)
+Precisão: 0.8046 - Naive Bayes com: LabelEncoder + StandardScale (Parcial)
 
 
